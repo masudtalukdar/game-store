@@ -4,9 +4,9 @@ Game-Store
 
 # Live Site
 
-(https://game-store-online.netlify.app/)
+https://game-store-online.netlify.app/
 
-# Using third-party API we access the game database that we can buy game and also play
+# Using third-party API we access the game database that we can buy game and also play.
 
 # Getting Started with Create React App
 
