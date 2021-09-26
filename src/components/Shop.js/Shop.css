@@ -1,0 +1,14 @@
+.product-container {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 10px;
+}
+.shop-container {
+  display: grid;
+  grid-template-columns: 6fr 1fr;
+  color: whitesmoke;
+}
+
+.cart-container {
+  border-left: 1px solid rgb(28 28 28 / 60%);
+}

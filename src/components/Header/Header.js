@@ -10,6 +10,9 @@ const Header = () => {
         <h3>Game Store</h3>
       </div>
       <div>
+        <h2>Total User: 1 Million</h2>
+      </div>
+      <div>
         <nav>
           <ul className='nav-iteams'>
             <li>Games List</li>
