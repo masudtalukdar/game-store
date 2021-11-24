@@ -1,6 +1,6 @@
 # Project Name
 
-Game-Store
+Game-Store 🎮
 
 # Live Site
 
